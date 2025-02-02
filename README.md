@@ -46,6 +46,7 @@ gls [options] [directories]
 - `-l [limit]`   Limit the number of files displayed
 - `-s [query]`   Search for files containing 'query'
 - `--help, -h`   Show help message
+- `--rename [old] [new]` Rename a file
 
 ## Example
 
