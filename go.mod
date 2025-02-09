@@ -5,6 +5,7 @@ go 1.23.1
 require (
 	github.com/dustin/go-humanize v1.0.1
 	github.com/gdamore/tcell/v2 v2.8.1
+	github.com/hashicorp/golang-lru v1.0.2
 	github.com/mholt/archiver/v3 v3.5.1
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/rivo/tview v0.0.0-20241227133733-17b7edb88c57
