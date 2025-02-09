@@ -21,7 +21,7 @@ sudo mv gls /usr/local/bin
 
 ### Or install executable for your OS
 
-Download the latest release from the [build dir] renamed to gls and move to your path. Unix and Linux (Windows big nono :D)
+Download the latest release from the [build dir] renamed to gls and move to your path. MacOS and Linux (Windows big nono :D)
 
 ## Usage
 
